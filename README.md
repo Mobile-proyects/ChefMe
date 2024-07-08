@@ -1,6 +1,6 @@
-## Pic2Plate AI: An Open-Source Project to Explore Gemini Pro Vision with Flutter
+##  AI: An Open-Source Project to Explore Gemini Pro Vision with Flutter
 
-Pic2Plate AI is an open-source Flutter project designed to showcase the capabilities of Google's Gemini Pro Vision model. This project allows users to take a picture of their ingredients and receive recipe suggestions based on the identified items. 
+  AI is an open-source Flutter project designed to showcase the capabilities of Google's Gemini Pro Vision model. This project allows users to take a picture of their ingredients and receive recipe suggestions based on the identified items. 
 
 This project serves as a valuable learning resource for developers interested in:
 
@@ -37,6 +37,6 @@ This project serves as a valuable learning resource for developers interested in
 
 ### Learn More:
 
-For a detailed explanation of the project's functionality and implementation, please refer to the accompanying [Medium post](https://alfredobs97.medium.com/pic2plate-crea-aplicaciones-con-ia-con-flutter-y-gemini-e414b4cf8c3e)
+For a detailed explanation of the project's functionality and implementation, please refer to the accompanying [Medium post](https://alfredobs97.medium.com/ -crea-aplicaciones-con-ia-con-flutter-y-gemini-e414b4cf8c3e)
 
 This project provides a starting point for exploring the exciting possibilities of Gemini Pro Vision and Flutter. Feel free to experiment, customize, and contribute to the project!
